@@ -1,0 +1,22 @@
+# Secrets & local config (never commit real credentials)
+config/mail.php
+config/database.php
+.env
+.env.*
+
+# Runtime logs (may contain reset tokens / PII)
+storage/logs/*
+!storage/logs/.gitkeep
+
+# Uploaded user content
+uploads/photos/*
+!uploads/photos/index.php
+!uploads/photos/.gitkeep
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+*.zip
