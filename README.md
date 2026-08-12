@@ -98,37 +98,21 @@ Click the preview image below to watch the full system walkthrough on Google Dri
 
 ## 🖼️ Project Screenshots
 
-<table border="0">
+<table>
   <tr>
     <td width="50%">
-      <img src="docs/screenshots/login.png" alt="Login" width="100%" style="border: 1px solid #e1e4e8;" />
+      <img src="https://github.com/user-attachments/assets/a437e08b-d051-446c-bbe6-62c83cea0810" alt="Project Screenshot 1" />
     </td>
     <td width="50%">
-      <img src="docs/screenshots/dashboard.png" alt="Admin Dashboard" width="100%" style="border: 1px solid #e1e4e8;" />
+      <img src="https://github.com/user-attachments/assets/b5a98fa5-0fbe-4e5f-ba3b-284612165e25" alt="Project Screenshot 2" />
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="docs/screenshots/shipments.png" alt="Inbound Shipments" width="100%" style="border: 1px solid #e1e4e8;" />
+      <img src="https://github.com/user-attachments/assets/e8e266ce-8893-4ae1-bc48-17d8425ea788" alt="Project Screenshot 3" />
     </td>
     <td width="50%">
-      <img src="docs/screenshots/overview.png" alt="User Counting Records" width="100%" style="border: 1px solid #e1e4e8;" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="docs/screenshots/users.png" alt="User Management" width="100%" style="border: 1px solid #e1e4e8;" />
-    </td>
-    <td width="50%">
-      <img src="docs/screenshots/user-dashboard.png" alt="Warehouse Counting Dashboard" width="100%" style="border: 1px solid #e1e4e8;" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="docs/screenshots/count-modal.png" alt="Add Counting Record" width="100%" style="border: 1px solid #e1e4e8;" />
-    </td>
-    <td width="50%">
-      <img src="docs/screenshots/forgot-password.png" alt="Forgot Password" width="100%" style="border: 1px solid #e1e4e8;" />
+      <img src="https://github.com/user-attachments/assets/5a143829-7787-4075-aa09-94e6214e9c62" alt="Project Screenshot 4" />
     </td>
   </tr>
 </table>
