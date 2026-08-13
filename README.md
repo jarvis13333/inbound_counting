@@ -90,7 +90,7 @@ A **multi-user warehouse inbound counting** system built with **PHP 8**, **MySQL
 Click the preview image below to watch the full system walkthrough on Google Drive:
 
 <a href="https://drive.google.com/file/d/1mLLtkZTCgwwVvdnaLTu_alisrvQ1gzsi/view?usp=drive_link" target="_blank">
-  <img src="docs/screenshots/dashboard.png" alt="Watch Video Walkthrough" width="100%" style="border: 1px solid #e1e4e8;" />
+  <img src="https://github.com/user-attachments/assets/a437e08b-d051-446c-bbe6-62c83cea0810" alt="Project Screenshot 1" />
 </a>
 
 ---
